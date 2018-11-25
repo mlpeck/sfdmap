@@ -1,7 +1,7 @@
 \name{lookupebv}
 \alias{lookupebv}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{lookupebv (using nabor)
 %%  ~~function to do ... ~~
 }
 \description{

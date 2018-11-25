@@ -1,7 +1,7 @@
 \name{ebvmap}
 \alias{ebvmap}
 \docType{data}
-\title{
+\title{Dust map of SFD
 %%   ~~ data name/kind ... ~~
 }
 \description{

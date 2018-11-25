@@ -1,7 +1,7 @@
 \name{lookupebv_st}
 \alias{lookupebv_st}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{lookupebv_st (using SearchTrees)
 %%  ~~function to do ... ~~
 }
 \description{

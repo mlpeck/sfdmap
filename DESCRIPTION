@@ -8,7 +8,7 @@ Description: Adapted from the medium resolution dust maps of SFD, originally dow
   https://www.astro.princeton.edu/~schlegel/dust/dustpub/maps (link was dead as of 27 June 2018).
   A similar data product is available at https://lambda.gsfc.nasa.gov/product/foreground/fg_sfd_get.cfm
 Depends: R (> 3.4.0)
-Suggests: nabor
+Suggests: nabor,
           SearchTrees
 License: MIT
 LazyData: TRUE
