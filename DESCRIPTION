@@ -1,0 +1,14 @@
+Package: sfdmap
+Type: Package
+Title: The all sky dust maps of Schlegel, Finkbeiner and Davis (1998), and functions to access it
+Version: 0.1.0
+Author: M.L. Peck
+Maintainer: M.L. Peck <mlpeck54@gmail.com>
+Description: Adapted from the medium resolution dust maps of SFD, originally downloaded from
+  https://www.astro.princeton.edu/~schlegel/dust/dustpub/maps (link was dead as of 27 June 2018).
+  A similar data product is available at https://lambda.gsfc.nasa.gov/product/foreground/fg_sfd_get.cfm
+Depends: R (> 3.4.0)
+Suggests: nabor
+          SearchTrees
+License: MIT
+LazyData: TRUE
